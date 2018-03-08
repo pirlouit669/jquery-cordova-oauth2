@@ -20,5 +20,5 @@
 	<icon src="icon.png" />
 	<gap:splash src="splash.png" />
 
-    <gap:plugin name="org.apache.cordova.inappbrowser" />
+    <plugin name="cordova-plugin-inappbrowser" spec="~2.0.2" />
 </widget>
