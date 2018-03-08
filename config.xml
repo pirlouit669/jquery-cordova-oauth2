@@ -10,15 +10,7 @@
     <description>
         Oauth2 in Cordova using Phonegap Build
     </description>
-
-    <author href="http://initlabs.com">
-        Rakshith Krishnappa 
-    </author>
 	
     <access origin="*" />
-	
-	<icon src="icon.png" />
-	<gap:splash src="splash.png" />
-
     <plugin name="cordova-plugin-inappbrowser" spec="~2.0.2" />
 </widget>
